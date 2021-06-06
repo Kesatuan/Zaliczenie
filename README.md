@@ -1,1 +1,1 @@
-# Zaliczenie
+First name and last name: Daniel Tonga
